@@ -1,46 +1,22 @@
 ---
-title: Installation
-description: How to start your website and use Petridish.
-background: https://images.unsplash.com/photo-1609456878306-592aa2bc0eed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fGJpcmRzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&crop=top&w=1200&h=600&q=80
-permalink: /installation/
+title: About
+description: Here you can describe your project, lab or yourself. Or remove this page altogether if you don't want to do that.
+background: https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80
+permalink: /mailing%20list/
 ---
 
-## Create a site from scratch (recommended)
+{: .alert .alert-warning}
+The source file for this page is [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/master/pages/about.md).
 
-This method creates a clean repository without unnecessary files. You can then **add** more content and settings.
+This is a default page. See [configuration](/configuration/) to learn more about **pages**.
 
-1. Follow the [GitHub Pages instructions](https://pages.github.com/) to create a website on GitHub (select `Project site` and `Choose a theme`).
-2. Go to `_config.yml` in your repository and replace `theme: ...` with:
+To remove this page, you need to:
 
-    ```yml
-    remote_theme: peterdesmet/petridish@1.1
-    ```
+- Remove `pages/about.md`
+- Update `_data/navigation.yml` to remove the link to this page from the top navigation.
 
-3. Check your site at `http://username.github.io/repository` (give it a minute to rebuild).
-4. See [configuration](/configuration/) to add more elements to your site.
+## Some gibberish
 
-## Create a site from the Petridish repository
+Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
 
-This method gives you a copy of the Petridish repository and website. You can then **update** content and settings, and **remove** all the files you don't need.
-
-1. Go to the [Petridish repository](https://github.com/peterdesmet/petridish/) and click the green button `Use this template`. Give your repository a name and description (can be changed later).
-2. Go to your repository settings and enable GitHub Pages (`http://github.com/username/repository/settings/pages`). Use the `master` branch as source.
-3. Check your site at `http://username.github.io/repository` (give it a minute to build).
-4. See [configuration](/configuration/) to update elements of your site.
-
-Since you copied the Petridish repository, the theme is verbosely included. If you opt to make use of the `remote_theme` option described above, you can safely remove:
-
-```
-_includes/
-_layouts/
-_sass/
-assets/theme/
-package-lock.json
-package.json
-petridish.gemspec
-screenshot.png
-```
-
-## Install Petridish as gem-based theme
-
-If you do not what to use `remote_theme`, see the [Jekyll documentation](https://jekyllrb.com/docs/themes/#understanding-gem-based-themes) to install (gem-based) themes.
+He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
