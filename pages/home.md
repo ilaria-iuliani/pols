@@ -1,5 +1,5 @@
 ---
-title: Home
+title: The Physics of Living Systems (PoLS)
 description: Home
 background: /assets/theme/images/gwr.png
 permalink: /
