@@ -1,7 +1,7 @@
 ---
 title: Mailing list
 description: Mailing list
-background: gwr.png
+background: /assets/theme/images/gwr.png
 permalink: /mailing%20list/
 ---
 
