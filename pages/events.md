@@ -1,6 +1,5 @@
 ---
 title: Events
-description: Here you can add events
 background: /assets/theme/images/gwr.png
 permalink: /events/
 ---
