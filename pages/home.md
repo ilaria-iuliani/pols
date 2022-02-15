@@ -1,6 +1,6 @@
 ---
-title: The Physics of Living Systems (PoLS)
-description: Home
+title: The Physics of Living Systems 
+description: (PoLS Italian Network)
 background: /assets/theme/images/gwr.png
 permalink: /
 ---
