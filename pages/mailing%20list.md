@@ -6,6 +6,7 @@ permalink: /mailing%20list/
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 INSTRUCTIONS TO JOIN THE POLS_IT MAILING LIST
 
 1. Log in to a gmail account
@@ -17,4 +18,5 @@ https://groups.google.com/u/0/g/pols_it
 “Ask to join group”
 
 4. Wait for email confirmation
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
