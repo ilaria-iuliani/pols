@@ -1,9 +1,9 @@
 ---
 title: Mailing list
-description: Mailing list
 background: /assets/theme/images/gwr.png
 permalink: /mailing%20list/
 ---
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 INSTRUCTIONS TO JOIN THE POLS_IT MAILING LIST
