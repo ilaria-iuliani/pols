@@ -1,7 +1,7 @@
 ---
 title: Home
 description: Home
-background: /assets/theme/images/coliMM.jpg
+background: /assets/theme/images/gwr.png
 permalink: /
 ---
 
