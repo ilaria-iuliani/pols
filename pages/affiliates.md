@@ -4,14 +4,6 @@ background: /assets/theme/images/gwr.png
 permalink: /affiliates/
 ---
 
-
----
-title: Affiliates
-background: /assets/theme/images/gwr.png
-permalink: /affiliates/
----
-
-
 ## Current Nodes
 
 **COMO**  
