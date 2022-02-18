@@ -4,9 +4,9 @@ background: /assets/theme/images/gwr.png
 permalink: /mailing%20list/
 ---
 
-## JOIN THE POLS_IT MAILING LIST
+## Join the PoLS Italy mailing list
 
-Here are the instructions 
+Here are the instructions: 
 
 1. Log in to a gmail account
 
