@@ -7,11 +7,11 @@ permalink: /affiliates/
 
 ## Current Nodes
 
-#### COMO
+##### COMO
 *Università dell’Insubria, Dipartimento di Scienza e Alta Tecnologia*
 Francesco Ginelli 
 
-#### GENOVA
+##### GENOVA
 *University of Genoa*
 Agnese Seminara
 
