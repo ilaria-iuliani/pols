@@ -13,7 +13,7 @@ permalink: /affiliates/
 *University of Genoa.* Agnese Seminara  
 
 **MILANO**  
-*Human Technopole - Computational Biology Research Centre.* Fernanda Pinheiro, Andrea Sottoriva  
+*Human Technopole - Computational Biology Research Centre.* Fernanda Pinheiro, Andrea Sottoriva.  
 *Physics Dept., U MILAN / INFN Milan.* Guido Tiana, Stefano Zapperi, Marco Gherardi, Marco Cosentino Lagomarsino, Alberto Vailati.  
 *Medical Biotechnology Dept., U MILAN.* Tommaso Bellini, Fabio Giavazzi, Giuliano Zanchetta, Marco Buscaglia.  
 *IFOM Foundation.* Marco Cosentino Lagomarsino, Paolo Maiuri, Francesco Ferrari, Andrea Ciliberto.  
