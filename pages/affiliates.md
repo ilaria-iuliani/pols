@@ -7,9 +7,7 @@ permalink: /affiliates/
 
 ## Current Nodes
 
-**COMO** \
-*Università dell’Insubria, Dipartimento di Scienza e Alta Tecnologia* \
-Francesco Ginelli 
+**COMO** \ *Università dell’Insubria, Dipartimento di Scienza e Alta Tecnologia* \ Francesco Ginelli 
 
 GENOVA
 *University of Genoa*
