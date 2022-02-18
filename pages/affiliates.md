@@ -5,8 +5,76 @@ permalink: /affiliates/
 ---
 
 
-## Some gibberish
+## Current Nodes
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+**COMO**
+*Università dell’Insubria, Dipartimento di Scienza e Alta Tecnologia*
+Francesco Ginelli 
 
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+**GENOVA**
+*University of Genoa*
+Agnese Seminara
+
+**MILANO**
+*Human Technopole - Computational Biology Research Centre*
+Fernanda Pinheiro, Andrea Sottoriva
+
+*Physics Dept., U MILAN / INFN Milan*
+Stefano Zapperi (?), Guido Tiana, Marco Gherardi, Marco Cosentino Lagomarsino, Alberto Vailati
+
+Medical Biotechnology Dept., U MILAN 
+Tommaso Bellini, Fabio Giavazzi, Giuliano Zanchetta, Marco Buscaglia
+
+IFOM Foundation
+Marco Cosentino Lagomarsino, Paolo Maiuri, Francesco Ferrari, Andrea Ciliberto
+
+U Milano-Bicocca
+Francesco Mantegazza, Domenico Salerno
+ 
+Università Vita-Salute San Raffaele
+Samuel Zambrano, Davide Mazza, Davide Cittaro
+ 
+Humanitas University
+Gabriele Micali, Roberto Rusconi
+
+NAPOLI 
+Physics Dept., Univ. of Naples “Federico II” / INFN Naples
+Mario Nicodemi, Andrea Chiariello, Simona Bianco
+
+PADOVA
+Physics and Astronomy Dept 
+Sandro Azaele, Samir Suweis, Amos Maritan, Marco Baiesi, Antonio Trovato, Matteo Pierno
+
+ROMA
+Phys Dept U Sapienza
+Enzo Marinari, Federico Ricci Tersenghi, Chiara Cammarota 
+
+INFN-Roma1
+Fabrizio Capuani
+
+SMRI
+Luca Peliti
+
+TRENTO
+Phys Dept
+Gianluca Lattanzi, Pietro Faccioli (?), Luca Tubiana, Raffaello Potestio
+
+TRIESTE
+ICTP Quantitative Life Sciences
+Antonio Celani, Matteo Marsili, Jacopo Grilli, Edgar Roldan  
+
+SISSA
+Cristian Micheletti, Angelo Rosa, Giovanni Bussi, Alessandro Laio
+
+TORINO
+Physics Dept. U Turin / INFN Turin
+Matteo Osella, Michele Caselle
+
+Dept. of Neurosciences University of Turin
+Davide Marnetto, Paolo Provero
+
+Dept. of Oncology, University of Turin
+Alberto Puliafito
+
+Politecnico di Torino & Italian Institute for Genomic Medicine (IIGM)
+Andrea de Martino, Andrea Pagnani, Carla Bosia, Alfredo Braunstein, Luca Dall’Asta, Andrea Gamba, Anna Paola Muntoni.
