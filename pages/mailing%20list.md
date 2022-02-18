@@ -4,10 +4,9 @@ background: /assets/theme/images/gwr.png
 permalink: /mailing%20list/
 ---
 
+JOIN THE POLS_IT MAILING LIST
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-INSTRUCTIONS TO JOIN THE POLS_IT MAILING LIST
+Here are the instructions 
 
 1. Log in to a gmail account
 
