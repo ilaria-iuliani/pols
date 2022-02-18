@@ -10,12 +10,11 @@ Here are the instructions
 
 1. Log in to a gmail account
 
-2. Navigate on
-https://groups.google.com/u/0/g/pols_it
+2. Navigate on [this link](https://groups.google.com/u/0/g/pols_it)
 
 3. Click on
 “Ask to join group”
 
 4. Wait for email confirmation
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
