@@ -7,38 +7,40 @@ permalink: /affiliates/
 
 ## Current Nodes
 
-**COMO**
+#### COMO
 *Università dell’Insubria, Dipartimento di Scienza e Alta Tecnologia*
 Francesco Ginelli 
 
-**GENOVA**
+#### GENOVA
 *University of Genoa*
 Agnese Seminara
 
 **MILANO**
+
 *Human Technopole - Computational Biology Research Centre*
 Fernanda Pinheiro, Andrea Sottoriva
 
 *Physics Dept., U MILAN / INFN Milan*
 Stefano Zapperi (?), Guido Tiana, Marco Gherardi, Marco Cosentino Lagomarsino, Alberto Vailati
 
-Medical Biotechnology Dept., U MILAN 
+*Medical Biotechnology Dept., U MILAN*
 Tommaso Bellini, Fabio Giavazzi, Giuliano Zanchetta, Marco Buscaglia
 
-IFOM Foundation
+*IFOM Foundation*
 Marco Cosentino Lagomarsino, Paolo Maiuri, Francesco Ferrari, Andrea Ciliberto
 
-U Milano-Bicocca
+*U Milano-Bicocca*
 Francesco Mantegazza, Domenico Salerno
  
-Università Vita-Salute San Raffaele
+*Università Vita-Salute San Raffaele*
 Samuel Zambrano, Davide Mazza, Davide Cittaro
  
-Humanitas University
+*Humanitas University*
 Gabriele Micali, Roberto Rusconi
 
-NAPOLI 
-Physics Dept., Univ. of Naples “Federico II” / INFN Naples
+**NAPOLI**
+
+*Physics Dept., Univ. of Naples “Federico II” / INFN Naples*
 Mario Nicodemi, Andrea Chiariello, Simona Bianco
 
 PADOVA
