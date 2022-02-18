@@ -10,7 +10,7 @@ author:                                 # Used for copyright statement in footer
 # SOCIAL PROFILES
 email: pols_it@googlegroups.com         # Social icon in footer
 twitter_username: pols                  # Social icon in footer
-# github_username: pols                   # Social icon in footer
+github_username: pols                   # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
