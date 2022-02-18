@@ -4,7 +4,7 @@ background: /assets/theme/images/gwr.png
 permalink: /mailing%20list/
 ---
 
-JOIN THE POLS_IT MAILING LIST
+##JOIN THE POLS_IT MAILING LIST
 
 Here are the instructions 
 
