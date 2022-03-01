@@ -1,7 +1,7 @@
 // Content
 
 .content {
-  font-family: Lora, serif;
+  font-family: $font-family-base;
   
   // Use base font for headings
   h1,
@@ -10,7 +10,7 @@
   h4,
   h5,
   h6 {
-    font-family: Lora, serif;
+    font-family: $font-family-base;
   }
 
   // Hide h1 headings in content, its use is reserved for header
