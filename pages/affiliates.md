@@ -31,7 +31,7 @@ permalink: /affiliates/
 *Phys Dept U Sapienza.* Enzo Marinari, Federico Ricci Tersenghi, Chiara Cammarota, Roberto di Leonardo.  
 *Math Dept U Sapienza.* Elena Agliari.  
 *INFN-Roma1.* Fabrizio Capuani.  
-*SMRI..* Luca Peliti.  
+*SMRI.* Luca Peliti.  
 
 **TRENTO**  
 *Phys Dept U Trento.* Gianluca Lattanzi, Pietro Faccioli, Luca Tubiana, Raffaello Potestio.  
