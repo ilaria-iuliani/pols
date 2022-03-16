@@ -28,7 +28,8 @@ permalink: /affiliates/
 *Physics and Astronomy Dept.* Sandro Azaele, Samir Suweis, Amos Maritan, Marco Baiesi, Antonio Trovato, Matteo Pierno.  
 
 **ROMA**  
-*Phys Dept U Sapienza.* Enzo Marinari, Federico Ricci Tersenghi, Chiara Cammarota.  
+*Phys Dept U Sapienza.* Enzo Marinari, Federico Ricci Tersenghi, Chiara Cammarota, Roberto di Leonardo.  
+*Math Dept U Sapienza.* Elena Agliari.  
 *INFN-Roma1.* Fabrizio Capuani.  
 *SMRI..* Luca Peliti.  
 
