@@ -34,7 +34,7 @@ permalink: /affiliates/
 *SMRI..* Luca Peliti.  
 
 **TRENTO**  
-*Phys Dept U Trento.* Gianluca Lattanzi, Pietro Faccioli (?), Luca Tubiana, Raffaello Potestio.  
+*Phys Dept U Trento.* Gianluca Lattanzi, Pietro Faccioli, Luca Tubiana, Raffaello Potestio.  
 
 **TRIESTE**   
 *ICTP Quantitative Life Sciences.* Antonio Celani, Matteo Marsili, Jacopo Grilli, Edgar Roldan.  
